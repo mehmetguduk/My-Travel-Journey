@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+
+:root {
+    --color1: #2b283a; // Journey Texts
+    --color2: #918e9b; // View on Google Maps Text
+    --color3: #dadada; // Mark Icon
+    --color4: #f55a5a; // Header Background, Mark Icon
+    --color5: #ffffff; // General Background
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Inter", sans-serif;
+}
