@@ -4,7 +4,7 @@ export default function Footer(){
     return(
         <footer className="footer">
            <img className="footer-image" src={footer_image}/>
-           <p className="footer-quote">"Wherever you go becomes a part of you somehow"</p>
+           <p className="footer-quote">"Travel has a way of stretching the mind."</p>
         </footer>
     )
 } 

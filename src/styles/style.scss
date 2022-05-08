@@ -6,6 +6,7 @@
     --color3: #f55a5a; // Header Background, Mark Icon
     --color4: #ffffff; // General Background
     --color5: #e2e2e2; // Journey Background
+    --color6: #cccccc; // Footer Background
 }
 
 * {
@@ -115,7 +116,7 @@ footer.footer {
     justify-content: center;
     align-items: center;
     height: 180px;
-    background: linear-gradient(150deg, #e2e2e2, 60%, #7f7f7f 100%);
+    background-color: var(--color6);
 
     position: relative;
 
@@ -123,6 +124,7 @@ footer.footer {
         position: absolute;
         right: 0;
         height: 180px;
+        -webkit-user-drag: none;
     }
 
     p.footer-quote {
@@ -131,7 +133,7 @@ footer.footer {
         text-align: center;
         font-size: 24px;
         font-style: italic;
-        font-weight: 300;
+        font-weight: 400;
         color: var(--color4);
     }
 }
