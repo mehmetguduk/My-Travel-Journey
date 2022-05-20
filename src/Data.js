@@ -1,3 +1,9 @@
+/*
+  THIS FILE WAS DEVELOPED BY MEHMET GUDUK
+  © 2022 COPYRIGHT, LICENSED WITH GPL-3.0 LICENSE, AUTHOR IS MEHMET GUDUK
+  https://github.com/mehmetguduk
+*/
+
 import amsterdam from "./images/amsterdam.jpg"
 import batumi from "./images/batumi.jpg"
 import berlin from "./images/berlin.jpg"
@@ -18,7 +24,7 @@ import vienna from "./images/vienna.jpg"
 import warsaw from "./images/warsaw.jpg"
 import wroclaw from "./images/wroclaw.jpg"
 
-export default [
+const data = [
     {
         title: "Amsterdam",
         location: "Netherlands",
@@ -153,3 +159,5 @@ export default [
         image: wroclaw
     }
 ]
+
+export default data 

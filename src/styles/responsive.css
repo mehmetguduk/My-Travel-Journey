@@ -1,1 +1,7 @@
+/*
+  THIS FILE WAS DEVELOPED BY MEHMET GUDUK
+  © 2022 COPYRIGHT, LICENSED WITH GPL-3.0 LICENSE, AUTHOR IS MEHMET GUDUK
+  https://github.com/mehmetguduk
+*/
+
 @media screen and (max-width: 1600px){div.journey{width:60% !important}}@media screen and (max-width: 1500px){div.journey{width:65% !important}}@media screen and (max-width: 1400px){div.journey{width:70% !important}}@media screen and (max-width: 1300px){div.journey{width:75% !important}}@media screen and (max-width: 1200px){div.journey{width:80% !important}}@media screen and (max-width: 1100px){div.journey{width:85% !important}}@media screen and (max-width: 1000px){div.journey{width:50% !important;flex-direction:column !important;height:auto !important}img.journey-image{height:400px !important;padding:0 0 30px 0}div.journey-content{margin-left:0 !important}}@media screen and (max-width: 900px){div.journey{width:55% !important}}@media screen and (max-width: 800px){div.journey{width:60% !important}}@media screen and (max-width: 700px){div.journey{width:70% !important}}@media screen and (max-width: 600px){div.journey{width:75% !important}}@media screen and (max-width: 480px){div.journey{width:100% !important;border-radius:0 !important}img.journey-image{width:100% !important;height:auto !important}}
